@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical|center_horizontal"
+    android:background="@drawable/page1">
+
+    <Button
+        android:id="@+id/write"
+        android:layout_width="299dp"
+        android:layout_height="wrap_content"
+        android:text="write A new Page" />
+
+    <Button
+        android:id="@+id/list"
+        android:layout_width="298dp"
+        android:layout_height="wrap_content"
+        android:text="View Your Slam Book Friends" />
+
+    <Button
+        android:id="@+id/bday"
+        android:layout_width="301dp"
+        android:layout_height="wrap_content"
+        android:text="View Birthdays Lists" />
+
+    <Button
+        android:text="LOGOUT"
+        android:layout_height="wrap_content"
+        android:id="@+id/logout"
+        android:layout_width="302dp" />
+</LinearLayout>

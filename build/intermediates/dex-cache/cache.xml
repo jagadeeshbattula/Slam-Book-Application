@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_5adf3b1da0209f58ce076720653be61f427a66be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_2afa4354602ff17ecaea14dc73fbed8aa076fa13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_774b2eb52139465746d1f7007eb4ae3fee82b5d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_41b1b7f715edb2f038f59b05d27f5a5236933080.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_a39e284d99a84aebfa12fcf161473fb5977671df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_cbef3153ab3d8cd7f33fd0e6d0be656701437d5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_13d2b9e8d645e985c41179e8e1fe118f22aaac46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_c00aef8626a31d4c364fb723fde9cdc6b4c9d6bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_f03a621d364b70bbbd99ab1b69f835182b7338e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_8d65ec50928cc3ff0e6a0b45bcfe2b4fd1eb73d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_0ec3f2f1088bb8296d559097bec94332ca1280e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jagad\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_312031e4bb5789c49f2a31e41db383cd20bc6413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\jagad\Documents\workpasce_studio_projects\HomeWorks\SlamBook\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_aa192ddeafc86471b79d90e701ab080d0027e63b.jar" />
+    </item>
+
+</items>
